@@ -1,0 +1,18 @@
+How to run the web app
+=========================
+1.open anaconda prompt
+2.conda activate projectD12
+3.cd C:\Users\veere\OneDrive\Desktop\projectD12\DiseasePredictionUsingMachineLearning\Disease-Prediction-system-using-Machine-Learning-and-Flask-master
+4.python app.py
+5.http://127.0.0.1:5000/
+
+-------------------------------------------------------------------------------------------------------------------
+
+How to run jupyter notebook
+=============================
+1.open anaconda prompt
+2.conda activate projectD12
+3.cd C:\Users\veere\OneDrive\Desktop\projectD12\DiseasePredictionUsingMachineLearning\Notebook
+4.jupyter notebook
+
+------------------------------------------------------------------------------------------------------------------
